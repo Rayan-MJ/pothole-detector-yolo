@@ -1,7 +1,7 @@
 # 🕳️ Pothole Detector using YOLOv8
 
 This project is a **computer vision model** that detects potholes in road images and videos.  
-It was built using [YOLOv8](https://github.com/ultralytics/ultralytics), trained on a custom dataset, and can run in real time on video streams.
+It was built using [YOLOv8](https://github.com/ultralytics/ultralytics), trained on a custom dataset.
 
 ---
 
